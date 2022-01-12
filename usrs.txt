@@ -1,0 +1,24 @@
+<Cap>
+Adrian
+<Presidente>
+Omar
+
+<Sistemas>
+<PT>
+Jose Luis Ayala
+Alan Sanchez
+Carlos Flores
+Omar De la Rosa
+<S>
+Adrian
+Daniel Salinas
+Kevin Figueroa
+<B>
+Camilo Aguilar
+Eduardo Luna
+Roadrigo
+<C>
+Fermin Robles
+<P>
+Yo 
+Rodrigo
